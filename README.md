@@ -6,3 +6,4 @@ shows up in a difference report.
 
 So I've cloned this again and am trying out GitHub Desktop
 
+Still fighting with my editor problem. Creating a change to commit and test
