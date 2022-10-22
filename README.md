@@ -10,5 +10,8 @@ Still fighting with my editor problem. Creating a change to commit and test
 
 Adding this line to see if I can push this from the command line using my brand new SSH key
 
-I actually opened this in Terminal to make a cmmit on the test01 branch.
+I actually opened this in Terminal to make a commit on the test01 branch.
+
+And now I have fixed the typo in the previous sentence.
+
 
